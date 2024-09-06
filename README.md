@@ -1,4 +1,4 @@
-**Sellit Application**
+****Sellit Application****
 
 Project Overview
 The Sellit Application is a Spring Boot-based web application designed to facilate Inter University college students to Sell thier used items and buy items from other students even if they belong to different college . It uses Java 17, Spring Boot 2.7.7, Hibernate, and PostgreSQL for its backend services.
